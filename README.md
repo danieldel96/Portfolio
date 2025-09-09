@@ -47,7 +47,7 @@ Developed a real-time shared-gaze system for collaborative industrial tasks. Con
 
 ___
 
-### **2. VR Prosthetic Training Platform**
+### **2. EMG-Based Human-Machine Interface in Virtual Reality **
 **Tech:** 
 Unity, C#, HTC Vive Pro 2 Virtual Reality
 **Summary:**  
