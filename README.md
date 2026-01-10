@@ -77,6 +77,9 @@ TensorFlow, CUDA, Python, High-Performance Computing
 **Summary:** 
 Designed multi-modal convolutional neural network machine learning algorithms trained on audio/visual data to detect and classify real-time user facial expressions and emotions. Also developed methods for efficient feature extraction.
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/Machine-Learning-Affect-Detection)**
+
+<img src="/Projects/Machine-Learning-Affect-Detection/images/foo.png">
+
 ___
 ### Full Project List
 **[→ View Full Project List](https://github.com/danieldel96/Portfolio/tree/main/Projects)**
