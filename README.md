@@ -48,9 +48,12 @@ Developed a real-time shared-gaze system for collaborative industrial tasks. Con
 
 <img src="/Projects/Shared-Gaze-Visualizations/Images/Azim_bottle.jpg">
 
-<img src="/Projects/Shared-Gaze-Visualizations/Images/Michael.jpg">
+<img src="/Projects/Shared-Gaze-Visualizations/Images/Michael_ray.jpg">
 
 <img src="/Projects/Shared-Gaze-Visualizations/Images/sphere_head_collider.png">
+
+<img src="/Projects/Shared-Gaze-Visualizations/Images/task_view_unity.png">
+
 
 
 ___
