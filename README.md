@@ -36,6 +36,7 @@ See more... [→ View Publications](https://github.com/danieldel96/Portfolio/tre
 
 ___
 
+
 ## 🌟 Projects
 
 ### **1. Shared-Gaze Visualization in AR**
@@ -44,6 +45,9 @@ Unity, MRTK, C#, HoloLens 2, Eye-tracking
 **Summary:**  
 Developed a real-time shared-gaze system for collaborative industrial tasks. Conducted **60+ study sessions**, resulting in publications at **IEEE VR 2024** (*Best Poster Honorable Mention*) and **IEEE ISMAR 2025**
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/Shared-Gaze-Visualizations)**
+
+<img src="/Projects/Shared-Gaze-Visualizations/Images/sphere_head_collider.png">
+
 
 ___
 
