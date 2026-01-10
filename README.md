@@ -48,11 +48,14 @@ Developed a real-time shared-gaze system for collaborative industrial tasks. Con
 
 <img src="/Projects/Shared-Gaze-Visualizations/Images/sphere_head_collider.png">
 
-<video controls width="640">
+<video
+  controls
+  muted
+  playsinline
+  preload="metadata"
+  width="700">
   <source src="/Projects/Shared-Gaze-Visualizations/Videos/short_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
-
 
 ___
 
