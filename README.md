@@ -36,6 +36,8 @@ See more... [→ View Publications](https://github.com/danieldel96/Portfolio/tre
 
 ___
 
+<img src="/Portfolio/Projects/Shared-Gaze-Visualizations/Images/bin_colliders.png">
+
 ## 🌟 Projects
 
 ### **1. Shared-Gaze Visualization in AR**
