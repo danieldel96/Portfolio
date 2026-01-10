@@ -36,7 +36,7 @@ See more... [→ View Publications](https://github.com/danieldel96/Portfolio/tre
 
 ___
 
-<img src="/Portfolio/Projects/Shared-Gaze-Visualizations/Images/bin_colliders.png">
+<img src="/Projects/Shared-Gaze-Visualizations/Images/bin_colliders.png">
 
 ## 🌟 Projects
 
