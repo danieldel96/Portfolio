@@ -48,6 +48,14 @@ Developed a real-time shared-gaze system for collaborative industrial tasks. Con
 
 <img src="/Projects/Shared-Gaze-Visualizations/Images/sphere_head_collider.png">
 
+<video
+  controls
+  muted
+  playsinline
+  preload="metadata"
+  width="700">
+  <source src="/Projects/Shared-Gaze-Visualizations/Videos/short_video.mp4" type="video/mp4">
+</video>
 
 ___
 
@@ -77,6 +85,9 @@ TensorFlow, CUDA, Python, High-Performance Computing
 **Summary:** 
 Designed multi-modal convolutional neural network machine learning algorithms trained on audio/visual data to detect and classify real-time user facial expressions and emotions. Also developed methods for efficient feature extraction.
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/Machine-Learning-Affect-Detection)**
+
+<img src="/Projects/Machine-Learning-Affect-Detection/svm/images/foo.png">
+
 ___
 ### Full Project List
 **[→ View Full Project List](https://github.com/danieldel96/Portfolio/tree/main/Projects)**
