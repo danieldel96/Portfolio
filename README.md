@@ -58,7 +58,7 @@ Unity, C#, HTC Vive Pro 2 Virtual Reality
 Designed and evaluated a VR-based training tool for EMG-controlled prosthetic hands. Conducted usability testing and performance analysis with **100+ hours** of user trials.  
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/EMG-Based-Human-Machine-Interface)**
 
-<img src="/Projects/EMG-Based-Human-Machine-Interface/ADL_task.png">
+<img src="/Projects/EMG-Based-Human-Machine-Interface/ADL_Task.png">
 
 ---
 ### **3. Augmented Reality Task Guidance**
