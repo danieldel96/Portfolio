@@ -48,13 +48,13 @@ Developed a real-time shared-gaze system for collaborative industrial tasks. Con
 
 <img src="./Projects/Shared-Gaze-Visualizations/Images/Azim_bottle.jpg">
 
-<img src="/Projects/Shared-Gaze-Visualizations/Images/Azim.jpg">
+<img src="./Projects/Shared-Gaze-Visualizations/Images/Azim.jpg">
 
-<img src="/Projects/Shared-Gaze-Visualizations/Images/Michael_ray.jpg">
+<img src="./Projects/Shared-Gaze-Visualizations/Images/Michael_ray.jpg">
 
-<img src="/Projects/Shared-Gaze-Visualizations/Images/sphere_head_collider.png">
+<img src="./Projects/Shared-Gaze-Visualizations/Images/sphere_head_collider.png">
 
-<img src="/Projects/Shared-Gaze-Visualizations/Images/task_view_unity.png">
+<img src="./Projects/Shared-Gaze-Visualizations/Images/task_view_unity.png">
 
 
 
@@ -67,11 +67,11 @@ Unity, C#, HTC Vive Pro 2 Virtual Reality
 Designed and evaluated a VR-based training tool for EMG-controlled prosthetic hands. Conducted usability testing and performance analysis with **100+ hours** of user trials.  
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/EMG-Based-Human-Machine-Interface)**
 
-<img src="/Projects/EMG-Based-Human-Machine-Interface/Images/architecture.png">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/architecture.png">
 
-<img src="/Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK1.png">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK1.png">
 
-<img src="/Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK2.png">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK2.png">
 
 
 ---
@@ -89,7 +89,7 @@ TensorFlow, CUDA, Python, High-Performance Computing
 Designed multi-modal convolutional neural network machine learning algorithms trained on audio/visual data to detect and classify real-time user facial expressions and emotions. Also developed methods for efficient feature extraction.
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/Machine-Learning-Affect-Detection)**
 
-<img src="/Projects/Machine-Learning-Affect-Detection/svm/images/foo.png">
+<img src="./Projects/Machine-Learning-Affect-Detection/svm/images/foo.png">
 
 ___
 ### Full Project List
