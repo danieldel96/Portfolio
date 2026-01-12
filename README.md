@@ -83,9 +83,9 @@ Developed a multi-modal augmented reality system to guide users through complex 
 
 <img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/object-detection.png">
 
-<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/object-highlight.png">
+<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/object-highlight.jpeg">
 
-<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/recipe-menu.png">
+<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/recipe-menu.jpeg">
 
 
 ___
