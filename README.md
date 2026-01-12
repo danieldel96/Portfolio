@@ -81,6 +81,13 @@ Unity, HoloLens 2
 **Summary:** 
 Developed a multi-modal augmented reality system to guide users through complex cooking tasks while adpating to their needs. Additionally, provided a set of design guidelines and recommendations for future systems.
 
+<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/object-detection.png">
+
+<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/object-highlight.png">
+
+<img src="./Projects/Developing-User-Needs-for-Task-Guidance/Images/recipe-menu.png">
+
+
 ___
 ### **4. Multi-Modal Affect Detection**
 **Tech:** 
