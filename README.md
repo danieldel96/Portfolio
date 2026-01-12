@@ -71,9 +71,9 @@ Designed and evaluated a VR-based training tool for EMG-controlled prosthetic ha
 
 <img src="./Projects/EMG-Based-Human-Machine-Interface/Images/architecture.png">
 
-<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK1.png" width="48">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK1.png" width="500">
 
-<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK2.png"  width="48">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK2.png"  width="500">
 
 
 ---
