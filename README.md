@@ -46,6 +46,8 @@ Unity, MRTK, C#, HoloLens 2, Eye-tracking
 Developed a real-time shared-gaze system for collaborative industrial tasks. Conducted **60+ study sessions**, resulting in publications at **IEEE VR 2024** (*Best Poster Honorable Mention*) and **IEEE ISMAR 2025**
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/Shared-Gaze-Visualizations)**
 
+<img src="./Projects/Shared-Gaze-Visualizations/Images/architecture.png">
+
 <img src="./Projects/Shared-Gaze-Visualizations/Images/Azim_bottle.jpg">
 
 <img src="./Projects/Shared-Gaze-Visualizations/Images/Azim.jpg">
@@ -69,9 +71,9 @@ Designed and evaluated a VR-based training tool for EMG-controlled prosthetic ha
 
 <img src="./Projects/EMG-Based-Human-Machine-Interface/Images/architecture.png">
 
-<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK1.png">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK1.png" width="500">
 
-<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK2.png">
+<img src="./Projects/EMG-Based-Human-Machine-Interface/Images/ADL_TASK2.png"  width="500">
 
 
 ---
@@ -95,6 +97,8 @@ TensorFlow, CUDA, Python, High-Performance Computing
 **Summary:** 
 Designed multi-modal convolutional neural network machine learning algorithms trained on audio/visual data to detect and classify real-time user facial expressions and emotions. Also developed methods for efficient feature extraction.
 **[→ View Project Folder](https://github.com/danieldel96/Portfolio/tree/main/Projects/Machine-Learning-Affect-Detection)**
+
+<img src="./Projects/Machine-Learning-Affect-Detection/cnn/images/20210527-170740_train.png">
 
 <img src="./Projects/Machine-Learning-Affect-Detection/svm/images/foo.png">
 
